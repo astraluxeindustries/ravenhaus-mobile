@@ -1,0 +1,7 @@
+{
+  "name": "Ravenhaus Mobile",
+  "description": "Premium mobile oil change and auto maintenance service in St. George, Utah. We come to you.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
